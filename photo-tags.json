@@ -1,0 +1,2596 @@
+{
+  "globalPalette": [
+    "#e0b0a0",
+    "#70a0a0",
+    "#d02060",
+    "#609080",
+    "#204070",
+    "#809020"
+  ],
+  "commonBg": "#f8f0e8",
+  "records": [
+    {
+      "file": "magical-village-assets (1).png",
+      "url": "magical-village-assets%20%281%29.png",
+      "category": "Icon",
+      "caption": "Adobe Arch Motif",
+      "tags": [
+        "ornamental",
+        "geometric",
+        "warm"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#107070",
+        "#c06040",
+        "#d02060",
+        "#d07050",
+        "#308080"
+      ],
+      "colorFamilies": [
+        2,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-adobe-arch-motif-1.png",
+      "pairGroup": 22,
+      "semanticTags": [
+        "solo-mark",
+        "decorative",
+        "warm-palette"
+      ],
+      "_i": 0
+    },
+    {
+      "file": "magical-village-assets (10).png",
+      "url": "magical-village-assets%20%2810%29.png",
+      "category": "Illustration",
+      "caption": "Cactus Village Twilight",
+      "tags": [
+        "scenic",
+        "desert",
+        "warm"
+      ],
+      "bg": "#a87850",
+      "palette": [
+        "#907050",
+        "#d0c0a0",
+        "#707060",
+        "#c06040",
+        "#d09060"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "downloadName": "magical-village-cactus-village-twilight-10.png",
+      "pairGroup": 21,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 1
+    },
+    {
+      "file": "magical-village-assets (11).png",
+      "url": "magical-village-assets%20%2811%29.png",
+      "category": "Illustration",
+      "caption": "Crescent Moon Pueblo",
+      "tags": [
+        "scenic",
+        "desert",
+        "cool"
+      ],
+      "bg": "#c0a080",
+      "palette": [
+        "#c0a080",
+        "#c07050",
+        "#b09070",
+        "#604030",
+        "#805040"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        5
+      ],
+      "downloadName": "magical-village-crescent-moon-pueblo-11.png",
+      "pairGroup": 12,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "cool-palette"
+      ],
+      "_i": 2
+    },
+    {
+      "file": "magical-village-assets (12).png",
+      "url": "magical-village-assets%20%2812%29.png",
+      "category": "Illustration",
+      "caption": "Terracotta Village Skyline",
+      "tags": [
+        "scenic",
+        "warm",
+        "desert"
+      ],
+      "bg": "#a89070",
+      "palette": [
+        "#a09070",
+        "#a07050",
+        "#d09060",
+        "#806050",
+        "#908060"
+      ],
+      "colorFamilies": [
+        0,
+        3,
+        5
+      ],
+      "downloadName": "magical-village-terracotta-village-skyline-12.png",
+      "pairGroup": 11,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 3
+    },
+    {
+      "file": "magical-village-assets (13).png",
+      "url": "magical-village-assets%20%2813%29.png",
+      "category": "Blueprint",
+      "caption": "Desert Canyon Road",
+      "tags": [
+        "monoline",
+        "scenic",
+        "desert"
+      ],
+      "bg": "#f0f0d8",
+      "palette": [
+        "#d0c0b0",
+        "#c0b0a0",
+        "#b0a090",
+        "#a09080",
+        "#908070"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-desert-canyon-road-13.png",
+      "pairGroup": 25,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 4
+    },
+    {
+      "file": "magical-village-assets (14).png",
+      "url": "magical-village-assets%20%2814%29.png",
+      "category": "Blueprint",
+      "caption": "Diverging Desert Trails",
+      "tags": [
+        "monoline",
+        "structural",
+        "desert"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#c0b090",
+        "#b09080",
+        "#a08060",
+        "#906050"
+      ],
+      "colorFamilies": [
+        0,
+        3,
+        5
+      ],
+      "downloadName": "magical-village-diverging-desert-trails-14.png",
+      "pairGroup": 28,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 5
+    },
+    {
+      "file": "magical-village-assets (15).png",
+      "url": "magical-village-assets%20%2815%29.png",
+      "category": "Blueprint",
+      "caption": "Canyon Wall Sketch",
+      "tags": [
+        "monoline",
+        "dense",
+        "desert"
+      ],
+      "bg": "#f0f0d8",
+      "palette": [
+        "#706050",
+        "#605040",
+        "#807060",
+        "#504030",
+        "#403020"
+      ],
+      "colorFamilies": [
+        3,
+        4,
+        5
+      ],
+      "downloadName": "magical-village-canyon-wall-sketch-15.png",
+      "pairGroup": 28,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "detailed"
+      ],
+      "_i": 6
+    },
+    {
+      "file": "magical-village-assets (16).png",
+      "url": "magical-village-assets%20%2816%29.png",
+      "category": "Blueprint",
+      "caption": "Yucca Highway Vista",
+      "tags": [
+        "monoline",
+        "scenic",
+        "desert"
+      ],
+      "bg": "#f8e8d0",
+      "palette": [
+        "#908070",
+        "#807060",
+        "#a09080",
+        "#706050",
+        "#604040"
+      ],
+      "colorFamilies": [
+        1,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-yucca-highway-vista-16.png",
+      "pairGroup": 25,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 7
+    },
+    {
+      "file": "magical-village-assets (17).png",
+      "url": "magical-village-assets%20%2817%29.png",
+      "category": "Blueprint",
+      "caption": "Faded Desert Roadway",
+      "tags": [
+        "monoline",
+        "minimal",
+        "desert"
+      ],
+      "bg": "#f0f0e0",
+      "palette": [
+        "#d0c0b0",
+        "#c0b0a0",
+        "#b0a090",
+        "#a09080",
+        "#807070"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-faded-desert-roadway-17.png",
+      "pairGroup": 20,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "minimal"
+      ],
+      "_i": 8
+    },
+    {
+      "file": "magical-village-assets (18).png",
+      "url": "magical-village-assets%20%2818%29.png",
+      "category": "Pattern",
+      "caption": "Agave Cactus Repeat",
+      "tags": [
+        "botanical",
+        "dense",
+        "warm"
+      ],
+      "bg": "#f8f0d0",
+      "palette": [
+        "#e0c0a0",
+        "#f0d0b0",
+        "#e0a080",
+        "#d09070",
+        "#d07040"
+      ],
+      "colorFamilies": [
+        0,
+        2
+      ],
+      "downloadName": "magical-village-agave-cactus-repeat-18.png",
+      "pairGroup": 10,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "warm-palette",
+        "detailed"
+      ],
+      "_i": 9
+    },
+    {
+      "file": "magical-village-assets (19).png",
+      "url": "magical-village-assets%20%2819%29.png",
+      "category": "Pattern",
+      "caption": "Palm Frond Scatter",
+      "tags": [
+        "botanical",
+        "monoline",
+        "dense"
+      ],
+      "bg": "#f8e8c8",
+      "palette": [
+        "#f0d0b0",
+        "#e0c090",
+        "#e0a070",
+        "#e09050",
+        "#80b0a0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-palm-frond-scatter-19.png",
+      "pairGroup": 27,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "detailed"
+      ],
+      "_i": 10
+    },
+    {
+      "file": "magical-village-assets (2).png",
+      "url": "magical-village-assets%20%282%29.png",
+      "category": "Pattern",
+      "caption": "Cactus Bloom Repeat",
+      "tags": [
+        "botanical",
+        "warm",
+        "dense"
+      ],
+      "bg": "#e8e8d8",
+      "palette": [
+        "#d08050",
+        "#e0b090",
+        "#d09070",
+        "#e0c0b0",
+        "#d06040"
+      ],
+      "colorFamilies": [
+        0,
+        2
+      ],
+      "downloadName": "magical-village-cactus-bloom-repeat-2.png",
+      "pairGroup": 10,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "warm-palette",
+        "detailed"
+      ],
+      "_i": 11
+    },
+    {
+      "file": "magical-village-assets (20).png",
+      "url": "magical-village-assets%20%2820%29.png",
+      "category": "Pattern",
+      "caption": "Yucca Sprig Scatter",
+      "tags": [
+        "botanical",
+        "monoline",
+        "minimal"
+      ],
+      "bg": "#f8f8e8",
+      "palette": [
+        "#e0c0a0",
+        "#e0b080",
+        "#f0d0b0",
+        "#d0a070"
+      ],
+      "colorFamilies": [
+        0
+      ],
+      "downloadName": "magical-village-yucca-sprig-scatter-20.png",
+      "pairGroup": 27,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "minimal"
+      ],
+      "_i": 12
+    },
+    {
+      "file": "magical-village-assets (21).png",
+      "url": "magical-village-assets%20%2821%29.png",
+      "category": "Pattern",
+      "caption": "Saguaro Cross Repeat",
+      "tags": [
+        "botanical",
+        "geometric",
+        "dense"
+      ],
+      "bg": "#f0e8d8",
+      "palette": [
+        "#e0c0a0",
+        "#e0a080",
+        "#d07040",
+        "#e08060",
+        "#d09070"
+      ],
+      "colorFamilies": [
+        0,
+        2
+      ],
+      "downloadName": "magical-village-saguaro-cross-repeat-21.png",
+      "pairGroup": 13,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "geometric-pattern",
+        "detailed"
+      ],
+      "_i": 13
+    },
+    {
+      "file": "magical-village-assets (22).png",
+      "url": "magical-village-assets%20%2822%29.png",
+      "category": "Blueprint",
+      "caption": "Succulent Specimen Chart",
+      "tags": [
+        "monoline",
+        "structural",
+        "botanical"
+      ],
+      "bg": "#f8f8e8",
+      "palette": [
+        "#609090",
+        "#70a0a0",
+        "#d0b0a0",
+        "#508080",
+        "#80b0b0"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-succulent-specimen-chart-22.png",
+      "pairGroup": 18,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "botanical-technical"
+      ],
+      "_i": 14
+    },
+    {
+      "file": "magical-village-assets (23).png",
+      "url": "magical-village-assets%20%2823%29.png",
+      "category": "Blueprint",
+      "caption": "Desert Botanical Blueprint",
+      "tags": [
+        "monoline",
+        "botanical",
+        "structural",
+        "desert"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#d0b0a0",
+        "#c09080",
+        "#70a0a0",
+        "#609090",
+        "#c08060"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-desert-botanical-blueprint-23.png",
+      "pairGroup": 18,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "botanical-technical"
+      ],
+      "_i": 15
+    },
+    {
+      "file": "magical-village-assets (24).png",
+      "url": "magical-village-assets%20%2824%29.png",
+      "category": "Pattern",
+      "caption": "Adobe House Grid Repeat",
+      "tags": [
+        "geometric",
+        "structural",
+        "warm",
+        "sparkle"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#d0a090",
+        "#e0b0a0",
+        "#70a0a0",
+        "#409090",
+        "#d09070"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-adobe-house-grid-repeat-24.png",
+      "pairGroup": 19,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette",
+        "magical"
+      ],
+      "_i": 16
+    },
+    {
+      "file": "magical-village-assets (25).png",
+      "url": "magical-village-assets%20%2825%29.png",
+      "category": "Pattern",
+      "caption": "Village Homes Sparkle Grid",
+      "tags": [
+        "geometric",
+        "warm",
+        "structural",
+        "sparkle"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#d0a090",
+        "#e0b0a0",
+        "#d09070",
+        "#b09080",
+        "#c07090"
+      ],
+      "colorFamilies": [
+        0
+      ],
+      "downloadName": "magical-village-village-homes-sparkle-grid-25.png",
+      "pairGroup": 2,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette",
+        "magical"
+      ],
+      "_i": 17
+    },
+    {
+      "file": "magical-village-assets (26).png",
+      "url": "magical-village-assets%20%2826%29.png",
+      "category": "Pattern",
+      "caption": "Adobe Houses Star Repeat",
+      "tags": [
+        "geometric",
+        "warm",
+        "structural",
+        "sparkle"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#d0a080",
+        "#e0c0a0",
+        "#c09070",
+        "#c07050",
+        "#d080a0"
+      ],
+      "colorFamilies": [
+        0,
+        2
+      ],
+      "downloadName": "magical-village-adobe-houses-star-repeat-26.png",
+      "pairGroup": 2,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette",
+        "magical"
+      ],
+      "_i": 18
+    },
+    {
+      "file": "magical-village-assets (27).png",
+      "url": "magical-village-assets%20%2827%29.png",
+      "category": "Illustration",
+      "caption": "Pastel Village Skyline",
+      "tags": [
+        "scenic",
+        "warm",
+        "minimal",
+        "desert"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#d05070",
+        "#70c0b0",
+        "#e0a060",
+        "#609090",
+        "#70a0a0"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "downloadName": "magical-village-pastel-village-skyline-27.png",
+      "pairGroup": 11,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette",
+        "minimal"
+      ],
+      "_i": 19
+    },
+    {
+      "file": "magical-village-assets (28).png",
+      "url": "magical-village-assets%20%2828%29.png",
+      "category": "Illustration",
+      "caption": "Desert Mission Skyline",
+      "tags": [
+        "scenic",
+        "warm",
+        "desert",
+        "ornamental"
+      ],
+      "bg": "#f0f0e0",
+      "palette": [
+        "#e0b080",
+        "#d06050",
+        "#d09050",
+        "#e0a060",
+        "#609080"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        3
+      ],
+      "downloadName": "magical-village-desert-mission-skyline-28.png",
+      "pairGroup": 9,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 20
+    },
+    {
+      "file": "magical-village-assets (29).png",
+      "url": "magical-village-assets%20%2829%29.png",
+      "category": "Illustration",
+      "caption": "Mission Village Sunburst",
+      "tags": [
+        "scenic",
+        "cool",
+        "sparkle",
+        "desert"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#f0c0b0",
+        "#90c0b0",
+        "#e0b0a0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-mission-village-sunburst-29.png",
+      "pairGroup": 12,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "cool-palette",
+        "magical"
+      ],
+      "_i": 21
+    },
+    {
+      "file": "magical-village-assets (3).png",
+      "url": "magical-village-assets%20%283%29.png",
+      "category": "Pattern",
+      "caption": "Adobe Arch Bloom Repeat",
+      "tags": [
+        "geometric",
+        "ornamental",
+        "warm",
+        "botanical"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#d07040",
+        "#207070",
+        "#d03060",
+        "#d08060",
+        "#308080"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-adobe-arch-bloom-repeat-3.png",
+      "pairGroup": 8,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "geometric-pattern",
+        "border",
+        "warm-palette"
+      ],
+      "_i": 22
+    },
+    {
+      "file": "magical-village-assets (30).png",
+      "url": "magical-village-assets%20%2830%29.png",
+      "category": "Illustration",
+      "caption": "Twilight Mission Plaza",
+      "tags": [
+        "scenic",
+        "warm",
+        "desert",
+        "sparkle"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#d0c0a0",
+        "#c0a080",
+        "#d0a0b0",
+        "#70a0a0",
+        "#609090"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-twilight-mission-plaza-30.png",
+      "pairGroup": 0,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette",
+        "magical"
+      ],
+      "_i": 23
+    },
+    {
+      "file": "magical-village-assets (31).png",
+      "url": "magical-village-assets%20%2831%29.png",
+      "category": "Architecture",
+      "caption": "Starlit Mission Facade",
+      "tags": [
+        "ornamental",
+        "warm",
+        "desert",
+        "structural"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#a07060",
+        "#006070",
+        "#107080",
+        "#70a0a0",
+        "#509090"
+      ],
+      "colorFamilies": [
+        1,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-starlit-mission-facade-31.png",
+      "pairGroup": 31,
+      "semanticTags": [
+        "solo-structure",
+        "decorative-facade",
+        "building",
+        "warm-palette"
+      ],
+      "_i": 24
+    },
+    {
+      "file": "magical-village-assets (32).png",
+      "url": "magical-village-assets%20%2832%29.png",
+      "category": "Illustration",
+      "caption": "Adobe Village Vista",
+      "tags": [
+        "scenic",
+        "warm",
+        "desert",
+        "sparkle"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#d0b090",
+        "#e0c0a0",
+        "#70a0a0",
+        "#d0a0b0",
+        "#c0a070"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-adobe-village-vista-32.png",
+      "pairGroup": 0,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette",
+        "magical"
+      ],
+      "_i": 25
+    },
+    {
+      "file": "magical-village-assets (33).png",
+      "url": "magical-village-assets%20%2833%29.png",
+      "category": "Pattern",
+      "caption": "Scattered Circles Confetti",
+      "tags": [
+        "geometric",
+        "minimal",
+        "sparkle",
+        "cool"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#c0d0d0",
+        "#d0c0c0",
+        "#c0b0b0",
+        "#d0a0a0"
+      ],
+      "colorFamilies": [
+        0
+      ],
+      "downloadName": "magical-village-scattered-circles-confetti-33.png",
+      "pairGroup": 7,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "cool-palette",
+        "magical",
+        "minimal"
+      ],
+      "_i": 26
+    },
+    {
+      "file": "magical-village-assets (35).png",
+      "url": "magical-village-assets%20%2835%29.png",
+      "category": "Pattern",
+      "caption": "Desert Dot Constellation",
+      "tags": [
+        "geometric",
+        "minimal",
+        "sparkle",
+        "dense"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#c0d0c0",
+        "#d0c0b0",
+        "#d090b0",
+        "#a0b0b0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-desert-dot-constellation-35.png",
+      "pairGroup": 32,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "magical",
+        "minimal",
+        "detailed"
+      ],
+      "_i": 27
+    },
+    {
+      "file": "magical-village-assets (38).png",
+      "url": "magical-village-assets%20%2838%29.png",
+      "category": "Illustration",
+      "caption": "Desert Mission Skyline",
+      "tags": [
+        "warm",
+        "scenic",
+        "desert"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#d0b090",
+        "#c0a080",
+        "#d0a0b0",
+        "#e0c0a0",
+        "#709090"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-desert-mission-skyline-38.png",
+      "pairGroup": 9,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 28
+    },
+    {
+      "file": "magical-village-assets (40).png",
+      "url": "magical-village-assets%20%2840%29.png",
+      "category": "Pattern",
+      "caption": "Tiny Casitas Grid",
+      "tags": [
+        "warm",
+        "geometric",
+        "sparkle",
+        "dense"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#d0a090",
+        "#e0b0a0",
+        "#c09080",
+        "#609090",
+        "#d08070"
+      ],
+      "colorFamilies": [
+        0,
+        3
+      ],
+      "downloadName": "magical-village-tiny-casitas-grid-40.png",
+      "pairGroup": 6,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette",
+        "magical",
+        "detailed"
+      ],
+      "_i": 29
+    },
+    {
+      "file": "magical-village-assets (41).png",
+      "url": "magical-village-assets%20%2841%29.png",
+      "category": "Pattern",
+      "caption": "Agave Sparkle Repeat",
+      "tags": [
+        "cool",
+        "botanical",
+        "sparkle",
+        "minimal"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#c09090",
+        "#d0a0a0",
+        "#c0b080",
+        "#90b0b0",
+        "#709090"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-agave-sparkle-repeat-41.png",
+      "pairGroup": 7,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "cool-palette",
+        "magical",
+        "minimal"
+      ],
+      "_i": 30
+    },
+    {
+      "file": "magical-village-assets (42).png",
+      "url": "magical-village-assets%20%2842%29.png",
+      "category": "Pattern",
+      "caption": "Terracotta Mosaic Grid",
+      "tags": [
+        "warm",
+        "geometric",
+        "dense"
+      ],
+      "bg": "#f8f8f8",
+      "palette": [
+        "#007070",
+        "#c06030",
+        "#e05080",
+        "#004040",
+        "#106060"
+      ],
+      "colorFamilies": [
+        2,
+        4
+      ],
+      "downloadName": "magical-village-terracotta-mosaic-grid-42.png",
+      "pairGroup": 6,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette",
+        "detailed"
+      ],
+      "_i": 31
+    },
+    {
+      "file": "magical-village-assets (43).png",
+      "url": "magical-village-assets%20%2843%29.png",
+      "category": "Pattern",
+      "caption": "Adobe Mosaic Bloom",
+      "tags": [
+        "warm",
+        "geometric",
+        "ornamental"
+      ],
+      "bg": "#c05830",
+      "palette": [
+        "#c05030",
+        "#107060",
+        "#e04070",
+        "#003040",
+        "#905030"
+      ],
+      "colorFamilies": [
+        2,
+        4,
+        5
+      ],
+      "downloadName": "magical-village-adobe-mosaic-bloom-43.png",
+      "pairGroup": 19,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette"
+      ],
+      "_i": 32
+    },
+    {
+      "file": "magical-village-assets (45).png",
+      "url": "magical-village-assets%20%2845%29.png",
+      "category": "Pattern",
+      "caption": "Cactus Tile Mosaic",
+      "tags": [
+        "cool",
+        "geometric",
+        "dense"
+      ],
+      "bg": "#007070",
+      "palette": [
+        "#007070",
+        "#c05030",
+        "#003040",
+        "#e04070",
+        "#005050"
+      ],
+      "colorFamilies": [
+        2,
+        4
+      ],
+      "downloadName": "magical-village-cactus-tile-mosaic-45.png",
+      "pairGroup": 13,
+      "semanticTags": [
+        "pattern",
+        "botanical-pattern",
+        "geometric-pattern",
+        "cool-palette",
+        "detailed"
+      ],
+      "_i": 33
+    },
+    {
+      "file": "magical-village-assets (48).png",
+      "url": "magical-village-assets%20%2848%29.png",
+      "category": "Architecture",
+      "caption": "Fiesta Cottage Facade",
+      "tags": [
+        "warm",
+        "ornamental",
+        "structural"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#107080",
+        "#409090",
+        "#308080",
+        "#60a0a0",
+        "#80b0b0"
+      ],
+      "colorFamilies": [
+        1,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-fiesta-cottage-facade-48.png",
+      "pairGroup": 5,
+      "semanticTags": [
+        "solo-structure",
+        "decorative-facade",
+        "building",
+        "warm-palette"
+      ],
+      "_i": 34
+    },
+    {
+      "file": "magical-village-assets (49).png",
+      "url": "magical-village-assets%20%2849%29.png",
+      "category": "Architecture",
+      "caption": "Adobe Mission Chapel",
+      "tags": [
+        "warm",
+        "ornamental",
+        "structural"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#c06000",
+        "#308090",
+        "#e0c090",
+        "#d0a070",
+        "#d07010"
+      ],
+      "colorFamilies": [
+        0,
+        3,
+        5
+      ],
+      "downloadName": "magical-village-adobe-mission-chapel-49.png",
+      "pairGroup": 5,
+      "semanticTags": [
+        "solo-structure",
+        "decorative-facade",
+        "building",
+        "warm-palette"
+      ],
+      "_i": 35
+    },
+    {
+      "file": "magical-village-assets (5).png",
+      "url": "magical-village-assets%20%285%29.png",
+      "category": "Pattern",
+      "caption": "Adobe Arch Border",
+      "tags": [
+        "warm",
+        "geometric",
+        "ornamental"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#d07040",
+        "#207070",
+        "#d04070",
+        "#d08060",
+        "#e0b090"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        4
+      ],
+      "downloadName": "magical-village-adobe-arch-border-5.png",
+      "pairGroup": 8,
+      "semanticTags": [
+        "pattern",
+        "geometric-pattern",
+        "border",
+        "warm-palette"
+      ],
+      "_i": 36
+    },
+    {
+      "file": "magical-village-assets (50).png",
+      "url": "magical-village-assets%20%2850%29.png",
+      "category": "Architecture",
+      "caption": "Adobe Facade Bloom",
+      "tags": [
+        "warm",
+        "ornamental",
+        "structural"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#d06000",
+        "#90c0c0",
+        "#50a0a0",
+        "#409090",
+        "#c07010"
+      ],
+      "colorFamilies": [
+        1,
+        3,
+        5
+      ],
+      "downloadName": "magical-village-adobe-facade-bloom-50.png",
+      "pairGroup": 4,
+      "semanticTags": [
+        "solo-structure",
+        "decorative-facade",
+        "building",
+        "warm-palette"
+      ],
+      "_i": 37
+    },
+    {
+      "file": "magical-village-assets (51).png",
+      "url": "magical-village-assets%20%2851%29.png",
+      "category": "Architecture",
+      "caption": "Pueblo Row Houses",
+      "tags": [
+        "warm",
+        "ornamental",
+        "structural"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#d06000",
+        "#409090",
+        "#70b0b0",
+        "#308080",
+        "#60a0a0"
+      ],
+      "colorFamilies": [
+        1,
+        3
+      ],
+      "downloadName": "magical-village-pueblo-row-houses-51.png",
+      "pairGroup": 4,
+      "semanticTags": [
+        "solo-structure",
+        "decorative-facade",
+        "building",
+        "warm-palette"
+      ],
+      "_i": 38
+    },
+    {
+      "file": "magical-village-assets (52).png",
+      "url": "magical-village-assets%20%2852%29.png",
+      "category": "Icon",
+      "caption": "Blooming Saguaro Mark",
+      "tags": [
+        "desert",
+        "minimal",
+        "warm"
+      ],
+      "bg": "#f8f8e8",
+      "palette": [
+        "#206030",
+        "#c07040",
+        "#e0b090",
+        "#80a080",
+        "#508060"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "downloadName": "magical-village-blooming-saguaro-mark-52.png",
+      "pairGroup": 17,
+      "semanticTags": [
+        "solo-mark",
+        "warm-palette",
+        "minimal"
+      ],
+      "_i": 39
+    },
+    {
+      "file": "magical-village-assets (53).png",
+      "url": "magical-village-assets%20%2853%29.png",
+      "category": "Icon",
+      "caption": "Desert Mesa Sunset",
+      "tags": [
+        "desert",
+        "warm",
+        "minimal"
+      ],
+      "bg": "#f8f0e0",
+      "palette": [
+        "#d06030",
+        "#904020",
+        "#a05030",
+        "#e08060",
+        "#c09070"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        5
+      ],
+      "downloadName": "magical-village-desert-mesa-sunset-53.png",
+      "pairGroup": 17,
+      "semanticTags": [
+        "solo-mark",
+        "warm-palette",
+        "minimal"
+      ],
+      "_i": 40
+    },
+    {
+      "file": "magical-village-assets (54).png",
+      "url": "magical-village-assets%20%2854%29.png",
+      "category": "Icon",
+      "caption": "Terracotta Casita Mark",
+      "tags": [
+        "warm",
+        "minimal",
+        "structural"
+      ],
+      "bg": "#f8f0e0",
+      "palette": [
+        "#c06040",
+        "#e0b060",
+        "#705030",
+        "#60a090",
+        "#d09080"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "downloadName": "magical-village-terracotta-casita-mark-54.png",
+      "pairGroup": 31,
+      "semanticTags": [
+        "solo-mark",
+        "warm-palette",
+        "minimal"
+      ],
+      "_i": 41
+    },
+    {
+      "file": "magical-village-assets (55).png",
+      "url": "magical-village-assets%20%2855%29.png",
+      "category": "Icon",
+      "caption": "Crescent Moon Star",
+      "tags": [
+        "cool",
+        "minimal",
+        "sparkle"
+      ],
+      "bg": "#f8f8f0",
+      "palette": [
+        "#204070",
+        "#e0b030",
+        "#406080",
+        "#103060",
+        "#708090"
+      ],
+      "colorFamilies": [
+        3,
+        4
+      ],
+      "downloadName": "magical-village-crescent-moon-star-55.png",
+      "pairGroup": 30,
+      "semanticTags": [
+        "solo-mark",
+        "cool-palette",
+        "magical",
+        "minimal"
+      ],
+      "_i": 42
+    },
+    {
+      "file": "magical-village-assets (56).png",
+      "url": "magical-village-assets%20%2856%29.png",
+      "category": "Icon",
+      "caption": "Agave Bloom Emblem",
+      "tags": [
+        "desert",
+        "geometric",
+        "cool"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#809020",
+        "#104040",
+        "#207060",
+        "#b05030",
+        "#306050"
+      ],
+      "colorFamilies": [
+        2,
+        4,
+        5
+      ],
+      "downloadName": "magical-village-agave-bloom-emblem-56.png",
+      "pairGroup": 30,
+      "semanticTags": [
+        "solo-mark",
+        "cool-palette"
+      ],
+      "_i": 43
+    },
+    {
+      "file": "magical-village-assets (58).png",
+      "url": "magical-village-assets%20%2858%29.png",
+      "category": "Blueprint",
+      "caption": "Tiered Mission Facade",
+      "tags": [
+        "monoline",
+        "structural",
+        "minimal"
+      ],
+      "bg": "#f8f0e0",
+      "palette": [
+        "#c0d0c0",
+        "#a0b0b0",
+        "#90a0a0",
+        "#d0c0b0",
+        "#c0b0a0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-tiered-mission-facade-58.png",
+      "pairGroup": 20,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "minimal"
+      ],
+      "_i": 44
+    },
+    {
+      "file": "magical-village-assets (6).png",
+      "url": "magical-village-assets%20%286%29.png",
+      "category": "Illustration",
+      "caption": "Starlit Adobe Village",
+      "tags": [
+        "scenic",
+        "warm",
+        "desert",
+        "botanical"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#006060",
+        "#c07050",
+        "#806050",
+        "#907060",
+        "#705040"
+      ],
+      "colorFamilies": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "downloadName": "magical-village-starlit-adobe-village-6.png",
+      "pairGroup": 1,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 45
+    },
+    {
+      "file": "magical-village-assets (60).png",
+      "url": "magical-village-assets%20%2860%29.png",
+      "category": "Blueprint",
+      "caption": "Mission Bell Tower Elevation",
+      "tags": [
+        "monoline",
+        "structural",
+        "dense"
+      ],
+      "bg": "#f0f0d8",
+      "palette": [
+        "#c0c0b0",
+        "#d0d0c0",
+        "#a0b0a0",
+        "#90a090",
+        "#b0d0d0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-mission-bell-tower-elevation-60.png",
+      "pairGroup": 16,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "detailed"
+      ],
+      "_i": 46
+    },
+    {
+      "file": "magical-village-assets (61).png",
+      "url": "magical-village-assets%20%2861%29.png",
+      "category": "Blueprint",
+      "caption": "Labeled Facade Elevation",
+      "tags": [
+        "monoline",
+        "structural",
+        "dense"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#a0b0b0",
+        "#c0d0c0",
+        "#90a0a0",
+        "#809090",
+        "#d0c0b0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-labeled-facade-elevation-61.png",
+      "pairGroup": 16,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "detailed"
+      ],
+      "_i": 47
+    },
+    {
+      "file": "magical-village-assets (62).png",
+      "url": "magical-village-assets%20%2862%29.png",
+      "category": "Blueprint",
+      "caption": "Stepped Gable Elevation",
+      "tags": [
+        "monoline",
+        "ornamental",
+        "structural"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#70a0a0",
+        "#609090",
+        "#508080",
+        "#80b0b0"
+      ],
+      "colorFamilies": [
+        1,
+        3
+      ],
+      "downloadName": "magical-village-stepped-gable-elevation-62.png",
+      "pairGroup": 24,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 48
+    },
+    {
+      "file": "magical-village-assets (64).png",
+      "url": "magical-village-assets%20%2864%29.png",
+      "category": "Blueprint",
+      "caption": "Grand Gate Elevation",
+      "tags": [
+        "monoline",
+        "structural",
+        "cool"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#b0c0c0",
+        "#a0b0b0",
+        "#c0d0d0",
+        "#90a0a0",
+        "#709090"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-grand-gate-elevation-64.png",
+      "pairGroup": 15,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "cool-palette"
+      ],
+      "_i": 49
+    },
+    {
+      "file": "magical-village-assets (65).png",
+      "url": "magical-village-assets%20%2865%29.png",
+      "category": "Blueprint",
+      "caption": "Stepped Gable Facade",
+      "tags": [
+        "monoline",
+        "structural",
+        "ornamental"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#709090",
+        "#608080",
+        "#80a0a0",
+        "#c09090",
+        "#105050"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-stepped-gable-facade-65.png",
+      "pairGroup": 24,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 50
+    },
+    {
+      "file": "magical-village-assets (66).png",
+      "url": "magical-village-assets%20%2866%29.png",
+      "category": "Blueprint",
+      "caption": "Wrought Iron Gateway",
+      "tags": [
+        "monoline",
+        "structural",
+        "cool"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#709090",
+        "#407070",
+        "#608080",
+        "#206060",
+        "#80a0a0"
+      ],
+      "colorFamilies": [
+        1,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-wrought-iron-gateway-66.png",
+      "pairGroup": 15,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "cool-palette"
+      ],
+      "_i": 51
+    },
+    {
+      "file": "magical-village-assets (67).png",
+      "url": "magical-village-assets%20%2867%29.png",
+      "category": "Blueprint",
+      "caption": "Mission Chapel Elevation",
+      "tags": [
+        "monoline",
+        "structural",
+        "minimal"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#c0d0c0",
+        "#a0c0b0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-mission-chapel-elevation-67.png",
+      "pairGroup": 14,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "minimal"
+      ],
+      "_i": 52
+    },
+    {
+      "file": "magical-village-assets (68).png",
+      "url": "magical-village-assets%20%2868%29.png",
+      "category": "Blueprint",
+      "caption": "Twin Arch Portico",
+      "tags": [
+        "monoline",
+        "structural",
+        "sparkle"
+      ],
+      "bg": "#f0f0e0",
+      "palette": [
+        "#c0d0c0",
+        "#a0c0b0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-twin-arch-portico-68.png",
+      "pairGroup": 26,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "magical"
+      ],
+      "_i": 53
+    },
+    {
+      "file": "magical-village-assets (69).png",
+      "url": "magical-village-assets%20%2869%29.png",
+      "category": "Blueprint",
+      "caption": "Bell Tower Chapel",
+      "tags": [
+        "monoline",
+        "structural",
+        "ornamental"
+      ],
+      "bg": "#f8f0e8",
+      "palette": [
+        "#608080",
+        "#709090",
+        "#507070",
+        "#105050",
+        "#306060"
+      ],
+      "colorFamilies": [
+        1,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-bell-tower-chapel-69.png",
+      "pairGroup": 23,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 54
+    },
+    {
+      "file": "magical-village-assets (7).png",
+      "url": "magical-village-assets%20%287%29.png",
+      "category": "Illustration",
+      "caption": "Desert Village Skyline",
+      "tags": [
+        "warm",
+        "cool",
+        "desert",
+        "scenic"
+      ],
+      "bg": "#f8f8e8",
+      "palette": [
+        "#e0b090",
+        "#f0c0b0",
+        "#f0a080",
+        "#90c0c0",
+        "#80b0b0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-desert-village-skyline-7.png",
+      "pairGroup": 3,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette",
+        "cool-palette"
+      ],
+      "_i": 55
+    },
+    {
+      "file": "magical-village-assets (71).png",
+      "url": "magical-village-assets%20%2871%29.png",
+      "category": "Blueprint",
+      "caption": "Tiered Temple Archway",
+      "tags": [
+        "monoline",
+        "structural",
+        "geometric"
+      ],
+      "bg": "#f8f0d8",
+      "palette": [
+        "#c0d0c0",
+        "#d0b0a0",
+        "#b0c0b0"
+      ],
+      "colorFamilies": [
+        0
+      ],
+      "downloadName": "magical-village-tiered-temple-archway-71.png",
+      "pairGroup": 26,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 56
+    },
+    {
+      "file": "magical-village-assets (72).png",
+      "url": "magical-village-assets%20%2872%29.png",
+      "category": "Blueprint",
+      "caption": "Gothic Window Trio",
+      "tags": [
+        "monoline",
+        "structural",
+        "minimal"
+      ],
+      "bg": "#f0f0e0",
+      "palette": [
+        "#c0d0c0",
+        "#b0c0b0",
+        "#d0a0a0"
+      ],
+      "colorFamilies": [
+        0
+      ],
+      "downloadName": "magical-village-gothic-window-trio-72.png",
+      "pairGroup": 14,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "minimal"
+      ],
+      "_i": 57
+    },
+    {
+      "file": "magical-village-assets (73).png",
+      "url": "magical-village-assets%20%2873%29.png",
+      "category": "Blueprint",
+      "caption": "Courtyard Gate System",
+      "tags": [
+        "monoline",
+        "structural",
+        "ornamental"
+      ],
+      "bg": "#f0f0e0",
+      "palette": [
+        "#c0d0c0",
+        "#b0c0b0",
+        "#90b0b0",
+        "#c0b0a0"
+      ],
+      "colorFamilies": [
+        0,
+        1
+      ],
+      "downloadName": "magical-village-courtyard-gate-system-73.png",
+      "pairGroup": 23,
+      "semanticTags": [
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "_i": 58
+    },
+    {
+      "file": "magical-village-assets (74).png",
+      "url": "magical-village-assets%20%2874%29.png",
+      "category": "Icon",
+      "caption": "Nautical Compass Rose",
+      "tags": [
+        "ornamental",
+        "dense",
+        "cool"
+      ],
+      "bg": "#000000",
+      "palette": [
+        "#005050",
+        "#007080",
+        "#003030",
+        "#f02060",
+        "#d04070"
+      ],
+      "colorFamilies": [
+        2,
+        4
+      ],
+      "downloadName": "magical-village-nautical-compass-rose-74.png",
+      "pairGroup": 29,
+      "semanticTags": [
+        "solo-mark",
+        "navigation",
+        "decorative",
+        "cool-palette",
+        "detailed"
+      ],
+      "_i": 59
+    },
+    {
+      "file": "magical-village-assets (75).png",
+      "url": "magical-village-assets%20%2875%29.png",
+      "category": "Icon",
+      "caption": "Desert Compass Emblem",
+      "tags": [
+        "botanical",
+        "warm",
+        "ornamental"
+      ],
+      "bg": "#e0e0d0",
+      "palette": [
+        "#306060",
+        "#a03050",
+        "#507070",
+        "#608080",
+        "#c08090"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "downloadName": "magical-village-desert-compass-emblem-75.png",
+      "pairGroup": 22,
+      "semanticTags": [
+        "solo-mark",
+        "navigation",
+        "decorative",
+        "warm-palette"
+      ],
+      "_i": 60
+    },
+    {
+      "file": "magical-village-assets (78).png",
+      "url": "magical-village-assets%20%2878%29.png",
+      "category": "Illustration",
+      "caption": "Twin Spire Village Skyline",
+      "tags": [
+        "monoline",
+        "structural",
+        "scenic"
+      ],
+      "bg": "#f8f8f8",
+      "palette": [
+        "#b0a090",
+        "#c0d0d0",
+        "#c0b0a0",
+        "#b0c0c0",
+        "#d0c0b0"
+      ],
+      "colorFamilies": [
+        0
+      ],
+      "downloadName": "magical-village-twin-spire-village-skyline-78.png",
+      "pairGroup": 32,
+      "semanticTags": [
+        "skyline",
+        "multibuilding"
+      ],
+      "_i": 61
+    },
+    {
+      "file": "magical-village-assets (79).png",
+      "url": "magical-village-assets%20%2879%29.png",
+      "category": "Illustration",
+      "caption": "Mission Church Village Vista",
+      "tags": [
+        "warm",
+        "scenic",
+        "ornamental"
+      ],
+      "bg": "#f0f0f0",
+      "palette": [
+        "#d0a090",
+        "#90b0b0",
+        "#a08060",
+        "#b09070",
+        "#e0b0a0"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        3
+      ],
+      "downloadName": "magical-village-mission-church-village-vista-79.png",
+      "pairGroup": 21,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "warm-palette"
+      ],
+      "_i": 62
+    },
+    {
+      "file": "magical-village-assets (8).png",
+      "url": "magical-village-assets%20%288%29.png",
+      "category": "Illustration",
+      "caption": "Desert Cactus Clocktower Scene",
+      "tags": [
+        "desert",
+        "warm",
+        "scenic"
+      ],
+      "bg": "#f0f0f0",
+      "palette": [
+        "#e0b0a0",
+        "#60a0a0",
+        "#70b0b0",
+        "#509090",
+        "#d07050"
+      ],
+      "colorFamilies": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "downloadName": "magical-village-desert-cactus-clocktower-scene-8.png",
+      "pairGroup": 3,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 63
+    },
+    {
+      "file": "magical-village-assets (9).png",
+      "url": "magical-village-assets%20%289%29.png",
+      "category": "Illustration",
+      "caption": "Starlit Adobe Village",
+      "tags": [
+        "desert",
+        "warm",
+        "botanical",
+        "scenic"
+      ],
+      "bg": "#b89060",
+      "palette": [
+        "#b09060",
+        "#a07050",
+        "#806040",
+        "#705030",
+        "#b06030"
+      ],
+      "colorFamilies": [
+        5
+      ],
+      "downloadName": "magical-village-starlit-adobe-village-9.png",
+      "pairGroup": 1,
+      "semanticTags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene",
+        "warm-palette"
+      ],
+      "_i": 64
+    },
+    {
+      "file": "magical-village-assets.png",
+      "url": "magical-village-assets.png",
+      "category": "Icon",
+      "caption": "Southwestern Emblem Mosaic",
+      "tags": [
+        "geometric",
+        "ornamental",
+        "botanical"
+      ],
+      "bg": "#f0f0e8",
+      "palette": [
+        "#c06030",
+        "#107070",
+        "#d02060",
+        "#d07050",
+        "#d09070"
+      ],
+      "colorFamilies": [
+        0,
+        2,
+        4
+      ],
+      "downloadName": "magical-village-southwestern-emblem-mosaic-0.png",
+      "pairGroup": 29,
+      "semanticTags": [
+        "solo-mark",
+        "decorative"
+      ],
+      "_i": 65
+    }
+  ],
+  "groups": [
+    {
+      "id": 0,
+      "size": 2,
+      "files": [
+        "magical-village-assets (30).png",
+        "magical-village-assets (32).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 1,
+      "size": 2,
+      "files": [
+        "magical-village-assets (6).png",
+        "magical-village-assets (9).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 2,
+      "size": 2,
+      "files": [
+        "magical-village-assets (25).png",
+        "magical-village-assets (26).png"
+      ],
+      "tags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 3,
+      "size": 2,
+      "files": [
+        "magical-village-assets (7).png",
+        "magical-village-assets (8).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 4,
+      "size": 2,
+      "files": [
+        "magical-village-assets (50).png",
+        "magical-village-assets (51).png"
+      ],
+      "tags": [
+        "solo-structure",
+        "decorative-facade",
+        "building"
+      ],
+      "dominantCategory": "Architecture"
+    },
+    {
+      "id": 5,
+      "size": 2,
+      "files": [
+        "magical-village-assets (48).png",
+        "magical-village-assets (49).png"
+      ],
+      "tags": [
+        "solo-structure",
+        "decorative-facade",
+        "building"
+      ],
+      "dominantCategory": "Architecture"
+    },
+    {
+      "id": 6,
+      "size": 2,
+      "files": [
+        "magical-village-assets (40).png",
+        "magical-village-assets (42).png"
+      ],
+      "tags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 7,
+      "size": 2,
+      "files": [
+        "magical-village-assets (33).png",
+        "magical-village-assets (41).png"
+      ],
+      "tags": [
+        "minimal",
+        "pattern",
+        "cool-palette"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 8,
+      "size": 2,
+      "files": [
+        "magical-village-assets (3).png",
+        "magical-village-assets (5).png"
+      ],
+      "tags": [
+        "pattern",
+        "geometric-pattern",
+        "border"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 9,
+      "size": 2,
+      "files": [
+        "magical-village-assets (28).png",
+        "magical-village-assets (38).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 10,
+      "size": 2,
+      "files": [
+        "magical-village-assets (18).png",
+        "magical-village-assets (2).png"
+      ],
+      "tags": [
+        "pattern",
+        "botanical-pattern",
+        "warm-palette"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 11,
+      "size": 2,
+      "files": [
+        "magical-village-assets (12).png",
+        "magical-village-assets (27).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 12,
+      "size": 2,
+      "files": [
+        "magical-village-assets (11).png",
+        "magical-village-assets (29).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "desert-scene"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 13,
+      "size": 2,
+      "files": [
+        "magical-village-assets (21).png",
+        "magical-village-assets (45).png"
+      ],
+      "tags": [
+        "pattern",
+        "botanical-pattern",
+        "geometric-pattern"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 14,
+      "size": 2,
+      "files": [
+        "magical-village-assets (67).png",
+        "magical-village-assets (72).png"
+      ],
+      "tags": [
+        "minimal",
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 15,
+      "size": 2,
+      "files": [
+        "magical-village-assets (64).png",
+        "magical-village-assets (66).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "cool-palette"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 16,
+      "size": 2,
+      "files": [
+        "magical-village-assets (60).png",
+        "magical-village-assets (61).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "detailed"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 17,
+      "size": 2,
+      "files": [
+        "magical-village-assets (52).png",
+        "magical-village-assets (53).png"
+      ],
+      "tags": [
+        "minimal",
+        "solo-mark",
+        "warm-palette"
+      ],
+      "dominantCategory": "Icon"
+    },
+    {
+      "id": 18,
+      "size": 2,
+      "files": [
+        "magical-village-assets (22).png",
+        "magical-village-assets (23).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "botanical-technical"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 19,
+      "size": 2,
+      "files": [
+        "magical-village-assets (24).png",
+        "magical-village-assets (43).png"
+      ],
+      "tags": [
+        "pattern",
+        "geometric-pattern",
+        "warm-palette"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 20,
+      "size": 2,
+      "files": [
+        "magical-village-assets (17).png",
+        "magical-village-assets (58).png"
+      ],
+      "tags": [
+        "minimal",
+        "architectural-drawing",
+        "monoline-technical"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 21,
+      "size": 2,
+      "files": [
+        "magical-village-assets (10).png",
+        "magical-village-assets (79).png"
+      ],
+      "tags": [
+        "skyline",
+        "multibuilding",
+        "warm-palette"
+      ],
+      "dominantCategory": "Illustration"
+    },
+    {
+      "id": 22,
+      "size": 2,
+      "files": [
+        "magical-village-assets (1).png",
+        "magical-village-assets (75).png"
+      ],
+      "tags": [
+        "solo-mark",
+        "decorative",
+        "warm-palette"
+      ],
+      "dominantCategory": "Icon"
+    },
+    {
+      "id": 23,
+      "size": 2,
+      "files": [
+        "magical-village-assets (69).png",
+        "magical-village-assets (73).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "monoline"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 24,
+      "size": 2,
+      "files": [
+        "magical-village-assets (62).png",
+        "magical-village-assets (65).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "monoline"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 25,
+      "size": 2,
+      "files": [
+        "magical-village-assets (13).png",
+        "magical-village-assets (16).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "monoline"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 26,
+      "size": 2,
+      "files": [
+        "magical-village-assets (68).png",
+        "magical-village-assets (71).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "monoline"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 27,
+      "size": 2,
+      "files": [
+        "magical-village-assets (19).png",
+        "magical-village-assets (20).png"
+      ],
+      "tags": [
+        "pattern",
+        "botanical-pattern",
+        "botanical"
+      ],
+      "dominantCategory": "Pattern"
+    },
+    {
+      "id": 28,
+      "size": 2,
+      "files": [
+        "magical-village-assets (14).png",
+        "magical-village-assets (15).png"
+      ],
+      "tags": [
+        "architectural-drawing",
+        "monoline-technical",
+        "monoline"
+      ],
+      "dominantCategory": "Blueprint"
+    },
+    {
+      "id": 29,
+      "size": 2,
+      "files": [
+        "magical-village-assets (74).png",
+        "magical-village-assets.png"
+      ],
+      "tags": [
+        "solo-mark",
+        "decorative",
+        "ornamental"
+      ],
+      "dominantCategory": "Icon"
+    },
+    {
+      "id": 30,
+      "size": 2,
+      "files": [
+        "magical-village-assets (55).png",
+        "magical-village-assets (56).png"
+      ],
+      "tags": [
+        "solo-mark",
+        "cool-palette",
+        "minimal"
+      ],
+      "dominantCategory": "Icon"
+    },
+    {
+      "id": 31,
+      "size": 2,
+      "files": [
+        "magical-village-assets (31).png",
+        "magical-village-assets (54).png"
+      ],
+      "tags": [
+        "warm-palette",
+        "warm",
+        "structural"
+      ],
+      "dominantCategory": "Architecture"
+    },
+    {
+      "id": 32,
+      "size": 2,
+      "files": [
+        "magical-village-assets (35).png",
+        "magical-village-assets (78).png"
+      ],
+      "tags": [
+        "minimal",
+        "pattern",
+        "geometric-pattern"
+      ],
+      "dominantCategory": "Pattern"
+    }
+  ]
+}
