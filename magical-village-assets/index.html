@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Magical Village — Design Asset Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="grain-overlay"></div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-mark">✦</span>
+      <div class="brand-text">
+        <h1>Magical Village</h1>
+        <p>Design Asset Library</p>
+      </div>
+    </div>
+    <div class="header-stats">
+      <div class="stat"><strong id="statTotal">0</strong><span>assets</span></div>
+      <div class="stat"><strong id="statCats">0</strong><span>categories</span></div>
+      <div class="stat"><strong id="statPairs">0</strong><span>print pairs</span></div>
+    </div>
+  </div>
+</header>
+
+<section class="palette-section">
+  <div class="palette-inner">
+    <div class="palette-label">
+      <h2>Color Palette</h2>
+      <p>Extracted from the full collection — click a swatch to filter assets by color family</p>
+    </div>
+    <div class="palette-swatches" id="paletteSwatches"></div>
+  </div>
+</section>
+
+<nav class="filter-bar">
+  <div class="filter-inner">
+    <div class="category-pills" id="categoryPills"></div>
+    <div class="view-toggle">
+      <button class="view-btn active" data-view="grid" id="viewGridBtn">
+        <svg viewBox="0 0 24 24" width="16" height="16"><rect x="3" y="3" width="7" height="7" rx="1.5" fill="currentColor"/><rect x="14" y="3" width="7" height="7" rx="1.5" fill="currentColor"/><rect x="3" y="14" width="7" height="7" rx="1.5" fill="currentColor"/><rect x="14" y="14" width="7" height="7" rx="1.5" fill="currentColor"/></svg>
+        Gallery
+      </button>
+      <button class="view-btn" data-view="pairs" id="viewPairsBtn">
+        <svg viewBox="0 0 24 24" width="16" height="16"><rect x="2" y="6" width="9" height="12" rx="1.5" fill="currentColor" opacity="0.55"/><rect x="13" y="6" width="9" height="12" rx="1.5" fill="currentColor"/></svg>
+        Print Pairs
+      </button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  <section id="gridView" class="asset-grid" aria-label="Asset gallery"></section>
+  <section id="pairsView" class="pairs-grid" hidden aria-label="Suggested print pairs"></section>
+  <p id="emptyState" class="empty-state" hidden>No assets match this filter.</p>
+</main>
+
+<footer class="site-footer">
+  <p>Magical Village Design System — 85 hand-curated assets across illustrations, architecture, blueprints, patterns &amp; icons.</p>
+</footer>
+
+<!-- Expand / Lightbox Modal -->
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="modal" id="modal" role="dialog" aria-modal="true">
+    <button class="modal-close" id="modalClose" aria-label="Close">✕</button>
+    <button class="modal-nav modal-prev" id="modalPrev" aria-label="Previous asset">‹</button>
+    <button class="modal-nav modal-next" id="modalNext" aria-label="Next asset">›</button>
+
+    <div class="modal-image-wrap">
+      <img id="modalImage" alt="">
+    </div>
+
+    <div class="modal-panel">
+      <span class="modal-category" id="modalCategory"></span>
+      <h2 id="modalCaption"></h2>
+      <div class="modal-tags" id="modalTags"></div>
+
+      <div class="modal-block">
+        <h3>Extracted Palette</h3>
+        <div class="modal-palette" id="modalPalette"></div>
+      </div>
+
+      <div class="modal-block" id="modalPairBlock">
+        <h3>Suggested Print Pairing</h3>
+        <p class="modal-pair-note" id="modalPairNote"></p>
+        <div class="modal-pair-thumbs" id="modalPairThumbs"></div>
+      </div>
+
+      <div class="modal-actions">
+        <a id="modalDownload" class="btn btn-primary" download>
+          <svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M12 3v10.5m0 0 4-4m-4 4-4-4M5 19h14"/></svg>
+          Download Asset
+        </a>
+        <button class="btn btn-secondary" id="modalDownloadPair">Download Print Set</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
